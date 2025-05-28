@@ -1,0 +1,28 @@
+* {
+    margin: 0px;
+    font-family: 'Times New Roman', Times, serif;
+    border: border-box;
+}
+
+.navbar {
+    height: 50px;
+    background-color: #0F1111;
+    color: white;
+
+}
+
+.navlogo {
+    display: inline;
+    border-top: 20px;
+    height: 50px;
+    width: 114px;
+}
+
+.logo{
+    background-image: url(amazonlogowhite.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin-top: 2;
+    height: 50px;
+    width: 100px;
+}
